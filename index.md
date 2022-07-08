@@ -14,6 +14,9 @@ Kan Qin is now working as an Associate Professor (Tenure Track) at Northwestern 
 1. Kan Qin, Qing Guo, Shaohang Geng, Jianan Zhang, Jianyong Wang. Forced condensation heat transfer characteristics of vapour in the presence of noncondensable gas in horizontal tubes operating at high pressures. Case Studies in Thermal Engineering, 2022.
 2. Kan Qin, Hanwei Wang, Jianhui Qi, Junliang Sun, Kai Luo. Aerodynamic design and experimental validation of high pressure ratio partial admission axial impulse turbines for unmanned underwater vehicles. Energy, 2022.
 3. Han Wang, Kai Luo, Chuang Huang, Aihong Zou, Daijin Li, Kan Qin. Numerical investigation of partial admission losses in radial inflow turbines. Energy, 2022.
+4. Qing Guo, Kai Luo, Daijin Li, Chuang Huang, Kan Qin. Effect of Operating Conditions on the Performance of Gas–Liquid Mixture Roots Pumps. Energies, 2021.
+5. Hanwei Wang, Yue Chao, Tian Tang, Kai Luo, Kan Qin. A comparison of partial admission axial and radial inflow turbines for underwater vehicles. Energies, 2021.
+6. K Qin, H Wang, X Wang, Y Sun, K Luo. Thermodynamic and experimental investigation of a metal fuelled steam Rankine cycle for Unmanned Underwater Vehicles. Energy Conversion and Management, 2020.
 
 
 ### Jekyll Themes
