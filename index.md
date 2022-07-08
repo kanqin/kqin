@@ -1,32 +1,19 @@
 ## Kan Qin's Homepage
 
-You can use the [editor on GitHub](https://github.com/kanqin/kqin/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Kan Qin is now working as an Associate Professor (Tenure Track) at Northwestern Polytechnical University, Received his PhD degrees in School of Mechanical & Mining at The University of Queensland, and holds BS & MS in Mechanical Engineering from Northwestern Polytechnical University.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+秦侃目前是西北工业大学的准聘副教授，博士毕业于澳大利亚昆士兰大学，本科及硕士毕业于西北工业大学。
 
-### Markdown
+Research interests include Multiphysics simulation of turbines, vapour condensation heat transfer with noncondensable gas, computational fluid dynamics (OpenFOAM & Eilmer), Energy System Control.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+研究方向包括（Up to Date）：涡轮机多物理仿真、含不凝气体的蒸汽凝结换热、计算流体力学（OpenFOAM & Eilmer）、动力系统控制等。
 
-```markdown
-Syntax highlighted code block
+### Publication
 
-# Header 1
-## Header 2
-### Header 3
+#### Journal Articles
 
-- Bulleted
-- List
+1. Kan Qin, Qing Guo, Shaohang Geng, Jianan Zhang, Jianyong Wang. Forced condensation heat transfer characteristics of vapour in the presence of noncondensable gas in horizontal tubes operating at high pressures. Case Studies in Thermal Engineering, 2022.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
