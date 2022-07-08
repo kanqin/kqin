@@ -6,6 +6,7 @@ Kan Qin is now working as an Associate Professor (Tenure Track) at Northwestern 
 
 ### News!
 
+1. 18-04-2022: 王瀚伟关于空水共用涡轮机的论文被兵工学报接受，[Link](http://www.co-journal.com/CN/10.12382/bgxb.2021.0691)
 
 ### Publication
 
