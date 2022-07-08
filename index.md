@@ -4,6 +4,8 @@ Kan Qin is now working as an Associate Professor (Tenure Track) at Northwestern 
 
 秦侃目前是西北工业大学的准聘副教授，博士毕业于澳大利亚昆士兰大学，本科及硕士毕业于西北工业大学。研究方向包括（Up to Date）：涡轮机多物理仿真、含不凝气体的蒸汽凝结换热、计算流体力学（OpenFOAM & Eilmer）、动力系统控制等。
 
+联系方式：kan.qin@nwpu.edu.cn
+
 ### News!
 
 1. 18-04-2022: 王瀚伟关于空水共用涡轮机的论文被兵工学报接收 [Link](http://www.co-journal.com/CN/10.12382/bgxb.2021.0691)
