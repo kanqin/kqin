@@ -8,9 +8,9 @@ Kan Qin is now working as an Associate Professor (Tenure Track) at Northwestern 
 
 ### News!
 
-3. 23-08-2022：张佳楠关于不凝气体冷却的论文被International Journal of Heat and Mass Transfer接受，Congrats. 论文题目：Analytical study and experimental validation of  vapour condensation in the presence of noncondensable gas in a horizontal tube for unmanned underwater vehicles
+1. 23-08-2022：张佳楠关于不凝气体冷却的论文被International Journal of Heat and Mass Transfer接受，Congrats. 论文题目：Analytical study and experimental validation of  vapour condensation in the presence of noncondensable gas in a horizontal tube for unmanned underwater vehicles
 2. 07-08-2022：指导学生参加全国大学生节能减排社会实践与科技竞赛-未来水下能源动力挑战赛获得金奖, Cheers. [Link](http://www.jienengjianpai.org/Article.asp?ID=307)
-1. 18-04-2022： 王瀚伟关于空水共用涡轮机的论文被兵工学报接收 [Link](http://www.co-journal.com/CN/10.12382/bgxb.2021.0691)
+3. 18-04-2022： 王瀚伟关于空水共用涡轮机的论文被兵工学报接收 [Link](http://www.co-journal.com/CN/10.12382/bgxb.2021.0691)
 
 ### Publication
 
