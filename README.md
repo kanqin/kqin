@@ -28,11 +28,3 @@ Kan Qin is now working as an Associate Professor (Tenure Track) at Northwestern 
 10. Qing Guo, Kan Qin, Daijin Li, Chuang Huang, Kai Luo. Numerical investigation and performance enhancement of roots pumps operating with gas-liquid mixtures. Vacuum, 2020.
 11. Daijin Li, Feng Li, Kan Qin, Chuang Huang, Kai Luo. Design Methodology of Conical Section Shape for Supercavitating Vehicles considering Auto-Oscillation Characteristics. Complexity, 2020. 
 12. Jianan Zhang, Kan Qin, Daijin Li, Kai Luo, Jianjun Dang. Potential of organic rankine cycles for unmanned underwater vehicles. Energy, 2020.
-
-### Members
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kanqin/kqin/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
