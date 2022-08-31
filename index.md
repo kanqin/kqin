@@ -1,13 +1,14 @@
 ## About Me
 
-Kan Qin is now working as an Associate Professor (Tenure Track) at Northwestern Polytechnical University, Received his PhD degrees in School of Mechanical & Mining at The University of Queensland, and holds BS & MS in Mechanical Engineering from Northwestern Polytechnical University. Research interests include Multiphysics simulation of turbines, vapour condensation heat transfer with noncondensable gas, computational fluid dynamics (OpenFOAM & Eilmer), Energy System Control.
+Kan Qin is now working as an Associate Professor (Tenure Track) at Northwestern Polytechnical University, Received his PhD degrees in School of Mechanical & Mining at The University of Queensland ([PhD thesis](https://gdtk.uqcloud.net/pdfs/kan-qin-phd-thesis-oct-2017.pdf)), and holds BS & MS in Mechanical Engineering from Northwestern Polytechnical University. Research interests include Multiphysics simulation of turbines, vapour condensation heat transfer with noncondensable gas, computational fluid dynamics (OpenFOAM & Eilmer), Energy System Control.
 
-秦侃目前是西北工业大学的准聘副教授，博士毕业于澳大利亚昆士兰大学，本科及硕士毕业于西北工业大学。研究方向包括（Up to Date）：涡轮机多物理仿真、含不凝气体的蒸汽凝结换热、计算流体力学（OpenFOAM & Eilmer）、动力系统控制等。
+秦侃目前是西北工业大学的准聘副教授，博士毕业于澳大利亚昆士兰大学，本科及硕士毕业于西北工业大学。研究方向包括（Up to Date）：燃气涡轮机多物理仿真、含不凝气体的蒸汽凝结换热、计算流体力学（OpenFOAM & [Eilmer](https://gdtk.uqcloud.net/docs/eilmer/about/)）、动力系统控制等。
 
 联系方式：kan.qin@nwpu.edu.cn
 
 ### News!
 
+2. 23-08-2022: 张佳楠关于不凝气体冷却的论文被International Journal of Heat and Mass Transfer接受，Congrats. 论文题目：Analytical study and experimental validation of  vapour condensation in the presence of noncondensable gas in a horizontal tube for unmanned underwater vehicles
 1. 18-04-2022: 王瀚伟关于空水共用涡轮机的论文被兵工学报接收 [Link](http://www.co-journal.com/CN/10.12382/bgxb.2021.0691)
 
 ### Publication
