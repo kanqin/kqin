@@ -8,12 +8,13 @@ Kan Qin is now working as an Associate Professor (Tenure Track) at Northwestern 
 
 ### News!
 
-2. 23-08-2022: 张佳楠关于不凝气体冷却的论文被International Journal of Heat and Mass Transfer接受，Congrats. 论文题目：Analytical study and experimental validation of  vapour condensation in the presence of noncondensable gas in a horizontal tube for unmanned underwater vehicles
-1. 18-04-2022: 王瀚伟关于空水共用涡轮机的论文被兵工学报接收 [Link](http://www.co-journal.com/CN/10.12382/bgxb.2021.0691)
+1. 23-08-2022: 张佳楠关于不凝气体冷却的论文被International Journal of Heat and Mass Transfer接受，Congrats. 论文题目：Analytical study and experimental validation of  vapour condensation in the presence of noncondensable gas in a horizontal tube for unmanned underwater vehicles [Link](https://www.sciencedirect.com/science/article/pii/S0017931022008547?dgcid=author)
+2. 18-04-2022: 王瀚伟关于空水共用涡轮机的论文被兵工学报接收 [Link](http://www.co-journal.com/CN/10.12382/bgxb.2021.0691)
 
 ### Publication
 
 #### Journal Articles
+##### 2022
 
 1. Kan Qin, Qing Guo, Shaohang Geng, Jianan Zhang, Jianyong Wang. Forced condensation heat transfer characteristics of vapour in the presence of noncondensable gas in horizontal tubes operating at high pressures. Case Studies in Thermal Engineering, 2022.
 2. Kan Qin, Hanwei Wang, Jianhui Qi, Junliang Sun, Kai Luo. Aerodynamic design and experimental validation of high pressure ratio partial admission axial impulse turbines for unmanned underwater vehicles. Energy, 2022.
