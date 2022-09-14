@@ -8,10 +8,11 @@ Kan Qin is now working as an Associate Professor (Tenure Track) at Northwestern 
 
 ### News!
 
-1. 02-09-2022: 智若阳关于部分进气燃气涡轮机冷却的论文被兵工学报接收
-2. 23-08-2022: 张佳楠关于不凝气体冷却的论文被International Journal of Heat and Mass Transfer接收. 论文题目：Analytical study and experimental validation of  vapour condensation in the presence of noncondensable gas in a horizontal tube for unmanned underwater vehicles [Link](https://www.sciencedirect.com/science/article/pii/S0017931022008547?dgcid=author)
-3. 07-08-2022：指导学生参加全国大学生节能减排社会实践与科技竞赛-未来水下能源动力挑战赛获得金奖, Cheers. [Link](http://www.jienengjianpai.org/Article.asp?ID=307)
-4. 18-04-2022: 王瀚伟关于空水共用涡轮机的论文被兵工学报接收 [Link](http://www.co-journal.com/CN/10.12382/bgxb.2021.0691)
+1. 13-09-2022: 郭庆关于含不凝气体蒸汽凝结换热的论文被兵工学报接收
+2. 02-09-2022：智若阳关于部分进气燃气涡轮机冷却的论文被兵工学报接收 [Link](http://www.co-journal.com/CN/10.12382/bgxb.2022.0305)
+3. 23-08-2022: 张佳楠关于不凝气体冷却的论文被International Journal of Heat and Mass Transfer接收. 论文题目：Analytical study and experimental validation of  vapour condensation in the presence of noncondensable gas in a horizontal tube for unmanned underwater vehicles [Link](https://www.sciencedirect.com/science/article/pii/S0017931022008547?dgcid=author)
+4. 07-08-2022：指导学生参加全国大学生节能减排社会实践与科技竞赛-未来水下能源动力挑战赛获得金奖, Cheers. [Link](http://www.jienengjianpai.org/Article.asp?ID=307)
+5. 18-04-2022: 王瀚伟关于空水共用涡轮机的论文被兵工学报接收 [Link](http://www.co-journal.com/CN/10.12382/bgxb.2021.0691)
 
 ### Publication
 
