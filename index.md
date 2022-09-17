@@ -1,6 +1,6 @@
 ## About Me
 
-Kan Qin is now working as an Associate Professor (Tenure Track) at Northwestern Polytechnical University, Received his PhD degrees in School of Mechanical & Mining at The University of Queensland ([PhD thesis](https://gdtk.uqcloud.net/pdfs/kan-qin-phd-thesis-oct-2017.pdf)), and holds BS & MS in Mechanical Engineering from Northwestern Polytechnical University. Research interests include Multiphysics simulation of turbines, vapour condensation heat transfer with noncondensable gas, computational fluid dynamics (OpenFOAM & Eilmer), Energy System Control.
+Kan Qin is now working as an Associate Professor (Tenure Track) at Northwestern Polytechnical University, Received his PhD degrees in School of Mechanical & Mining at The University of Queensland ([PhD thesis](https://gdtk.uqcloud.net/pdfs/kan-qin-phd-thesis-oct-2017.pdf)), and holds BS & MS in Mechanical Engineering from Northwestern Polytechnical University. Research interests include Multiphysics simulation of turbines, vapour condensation heat transfer with noncondensable gas, computational fluid dynamics (OpenFOAM & [Eilmer](https://gdtk.uqcloud.net/docs/eilmer/about/)), Energy System Control.
 
 秦侃目前是西北工业大学的准聘副教授，博士毕业于澳大利亚昆士兰大学，本科及硕士毕业于西北工业大学。研究方向包括（Up to Date）：燃气涡轮机多物理仿真、含不凝气体的蒸汽凝结换热、计算流体力学（OpenFOAM & [Eilmer](https://gdtk.uqcloud.net/docs/eilmer/about/)）、动力系统控制等。
 
@@ -8,7 +8,7 @@ Kan Qin is now working as an Associate Professor (Tenure Track) at Northwestern 
 
 ### News!
 
-1. 13-09-2022: 郭庆关于含不凝气体蒸汽凝结换热的论文被兵工学报接收
+1. 13-09-2022: 郭庆关于含不凝气体蒸汽凝结换热的论文被兵工学报接收 [Link](http://www.co-journal.com/CN/10.12382/bgxb.2022.0225)
 2. 02-09-2022：智若阳关于部分进气燃气涡轮机冷却的论文被兵工学报接收 [Link](http://www.co-journal.com/CN/10.12382/bgxb.2022.0305)
 3. 23-08-2022: 张佳楠关于不凝气体冷却的论文被International Journal of Heat and Mass Transfer接收. 论文题目：Analytical study and experimental validation of  vapour condensation in the presence of noncondensable gas in a horizontal tube for unmanned underwater vehicles [Link](https://www.sciencedirect.com/science/article/pii/S0017931022008547?dgcid=author)
 4. 07-08-2022：指导学生参加全国大学生节能减排社会实践与科技竞赛-未来水下能源动力挑战赛获得金奖, Cheers. [Link](http://www.jienengjianpai.org/Article.asp?ID=307)
