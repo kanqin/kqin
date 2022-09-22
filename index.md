@@ -2,7 +2,12 @@
 
 Kan Qin is now working as an Associate Professor (Tenure Track) at Northwestern Polytechnical University, Received his PhD degrees in School of Mechanical & Mining at The University of Queensland ([PhD thesis](https://gdtk.uqcloud.net/pdfs/kan-qin-phd-thesis-oct-2017.pdf)), and holds BS & MS in Mechanical Engineering from Northwestern Polytechnical University. Research interests include Multiphysics simulation of turbines, vapour condensation heat transfer with noncondensable gas, computational fluid dynamics (OpenFOAM & [Eilmer](https://gdtk.uqcloud.net/docs/eilmer/about/)), Energy System Control.
 
-秦侃目前是西北工业大学的准聘副教授，博士毕业于澳大利亚昆士兰大学，本科及硕士毕业于西北工业大学。研究方向包括（Up to Date）：燃气涡轮机多物理仿真、含不凝气体的蒸汽凝结换热、计算流体力学（OpenFOAM & [Eilmer](https://gdtk.uqcloud.net/docs/eilmer/about/)）、动力系统控制等。
+秦侃目前是西北工业大学的准聘副教授，博士毕业于澳大利亚昆士兰大学，本科及硕士毕业于西北工业大学。研究方向包括水下动力与推进和高速航行器设计，具体为：
+1. 计算流体力学（OpenFOAM & [Eilmer](https://gdtk.uqcloud.net/docs/eilmer/about/)）（LES和RANS）；
+2. 气-液两相流；
+3. 流-热-固多物理仿真；
+4. 含不凝气体的蒸汽凝结换热；
+5. 能源动力系统控制；
 
 联系方式：kan.qin@nwpu.edu.cn
 
