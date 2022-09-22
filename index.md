@@ -6,8 +6,9 @@ Kan Qin is now working as an Associate Professor (Tenure Track) at Northwestern 
 1. 计算流体力学（OpenFOAM & [Eilmer](https://gdtk.uqcloud.net/docs/eilmer/about/)）（LES和RANS）；
 2. 气-液两相流；
 3. 流-热-固多物理仿真；
-4. 含不凝气体的蒸汽凝结换热；
-5. 能源动力系统控制；
+4. 新概念高速航行器设计；
+5. 含不凝气体的蒸汽凝结换热；
+6. 能源动力系统控制；
 
 联系方式：kan.qin@nwpu.edu.cn
 
