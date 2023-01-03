@@ -14,13 +14,14 @@ Kan Qin is now working as an Associate Professor (Tenure Track) at Northwestern 
 
 ### News
 
-1. 17-11-2022: 恭喜郭庆博士通过博士论文答辩
-2. 14-11-2022: 张安静关于高速航行器头罩流-热耦合的论文被Energies接收 [Link](https://www.mdpi.com/1996-1073/15/22/8619)
-3. 13-09-2022: 郭庆关于含不凝气体蒸汽凝结换热的论文被兵工学报接收 [Link](http://www.co-journal.com/CN/10.12382/bgxb.2022.0225)
-4. 02-09-2022：智若阳关于部分进气燃气涡轮机冷却的论文被兵工学报接收 [Link](http://www.co-journal.com/CN/10.12382/bgxb.2022.0305)
-5. 23-08-2022: 张佳楠关于不凝气体冷却的论文被International Journal of Heat and Mass Transfer接收. 论文题目：Analytical study and experimental validation of  vapour condensation in the presence of noncondensable gas in a horizontal tube for unmanned underwater vehicles [Link](https://www.sciencedirect.com/science/article/pii/S0017931022008547?dgcid=author)
-6. 07-08-2022：指导学生参加全国大学生节能减排社会实践与科技竞赛-未来水下能源动力挑战赛获得金奖, Cheers. [Link](http://www.jienengjianpai.org/Article.asp?ID=307)
-7. 18-04-2022: 王瀚伟关于空水共用涡轮机的论文被兵工学报接收 [Link](http://www.co-journal.com/CN/10.12382/bgxb.2021.0691)
+1. 30-12-2022：恭喜张安静论文被航空动力学报接收
+2. 17-11-2022: 恭喜郭庆博士通过博士论文答辩
+3. 14-11-2022: 张安静关于高速航行器头罩流-热耦合的论文被Energies接收 [Link](https://www.mdpi.com/1996-1073/15/22/8619)
+4. 13-09-2022: 郭庆关于含不凝气体蒸汽凝结换热的论文被兵工学报接收 [Link](http://www.co-journal.com/CN/10.12382/bgxb.2022.0225)
+5. 02-09-2022：智若阳关于部分进气燃气涡轮机冷却的论文被兵工学报接收 [Link](http://www.co-journal.com/CN/10.12382/bgxb.2022.0305)
+6. 23-08-2022: 张佳楠关于不凝气体冷却的论文被International Journal of Heat and Mass Transfer接收. 论文题目：Analytical study and experimental validation of  vapour condensation in the presence of noncondensable gas in a horizontal tube for unmanned underwater vehicles [Link](https://www.sciencedirect.com/science/article/pii/S0017931022008547?dgcid=author)
+7. 07-08-2022：指导学生参加全国大学生节能减排社会实践与科技竞赛-未来水下能源动力挑战赛获得金奖, Cheers. [Link](http://www.jienengjianpai.org/Article.asp?ID=307)
+8. 18-04-2022: 王瀚伟关于空水共用涡轮机的论文被兵工学报接收 [Link](http://www.co-journal.com/CN/10.12382/bgxb.2021.0691)
 
 ### Opportunities
 
